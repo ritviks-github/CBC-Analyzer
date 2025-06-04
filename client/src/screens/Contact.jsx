@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom"; // Or "next/link" if you're still using Next.js
+import { Link } from "react-router-dom"; 
 import { CheckCircle, ArrowLeft, Microscope } from "lucide-react";
 
 export default function Contact() {

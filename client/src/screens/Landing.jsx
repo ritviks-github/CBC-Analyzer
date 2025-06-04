@@ -17,7 +17,7 @@ export default function CBCAnalyzerPage() {
     if (window.google) {
       window.google.accounts.id.initialize({
         client_id:
-          "444341127125-og51qnojotsrdjq5q5hvkdovotv9k1e6.apps.googleusercontent.com",
+          "444341127125-r66lok7m12rts9kin66c1v6t2acb7h6g.apps.googleusercontent.com",
         callback: handleCredentialResponse,
       });
 
